@@ -1,0 +1,9 @@
+# Load fzf settings
+source "$ZDOTDIR/fzf.zsh"
+
+# Load keybindings
+source "$ZDOTDIR/keybindings.zsh"
+
+# Load Aliase
+source "$ZDOTDIR/aliases.zsh"
+
