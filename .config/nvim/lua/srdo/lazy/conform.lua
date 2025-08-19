@@ -8,7 +8,6 @@ return {
                 go = { "gofmt" },
                 javascript = { "prettier" },
                 typescript = { "prettier" },
-                elixir = { "mix" }
             }
         })
     end
